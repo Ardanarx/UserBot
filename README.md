@@ -1,5 +1,4 @@
 # One4uBot userbot project
-
 <p align="center">
     <a href="https://github.com/MoveAngel/One4uBot/actions?query=workflow%3AFailedChecker" > <img src="https://img.shields.io/github/workflow/status/MoveAngel/One4uBot/FailedChecker/sql-extended?label=Build&style=flat-square&logo=github-actions&logoColor=white&color=98CE00" alt="FailedChecker" /></a>
     <a href="https://www.codacy.com/manual/MoveAngel/One4uBot?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=MoveAngel/One4uBot&amp;utm_campaign=Badge_Grade"><img src="https://img.shields.io/codacy/grade/e758192aef1c4178be8777694409b248?style=flat-square&logo=codacy&color=17BEBB" alt="codacy badge"/></a><br>
@@ -11,9 +10,7 @@
     <a href="https://hub.docker.com/r/movecrew/one4ubot"> <img src="https://img.shields.io/docker/image-size/movecrew/one4ubot/alpine-latest?label=Docker%20Size&style=flat-square&logo=docker&logoColor=white&color=1B98E0" alt="Docker Image" /></a><br>
     <a href="https://t.me/userbotindo"> <img src="https://img.shields.io/badge/telegram-Support_Group-blue?style=social&logo=telegram" alt="Support" /></a>
 </p>
-
 ![logo](https://i.ibb.co/02QVkHC/headersmina.jpg)
-
 ```
 #include <std/disclaimer.h>
 /**
@@ -29,35 +26,27 @@
     I will be rolling on the floor laughing at you.
 /**
 ```
-
 ## Generate String Session
 Easy way to get STRING_SESSION. Click the button and then click button colored green in top 'Run'
-
 ### Run on repl.it
 [![Run repl.it](https://img.shields.io/badge/run-string__session.py-blue?style=flat-square&logo=repl.it)](https://repl.it/@MoveAngel/UserbotSession?lite=1&outputonly=1)
-
 ### or Run on your terminal
 ```
 wget https://raw.githubusercontent.com/MoveAngel/One4uBot/sql-extended/terminal_getstring.sh && bash terminal_getstring.sh
 ```
-
 ## How To Host?
-
 The easiest way to deploy this great bot! is click on button below.
 Make sure you have an account of heroku and follow all the steps required.
 
 <p align="left"><a href="https://heroku.com/deploy?template=https://github.com/MoveAngel/One4uBot/tree/sql-extended"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+<p align="left"><a href="https://github.com/ardanarx/Userbot/tree/sql-extended"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
 For further guide you can head to [Groups and Support](https://github.com/MoveAngel/One4uBot#Groups-and-Support) or read this [guide](https://telegra.ph/How-to-host-a-Telegram-Userbot-07-01-2)
 
 ## Groups and Support
-
 if you want new features, or announcements, you can follow our [UserbotIndo Channel](https://t.me/userbotindocloud).
-
 For discussion, bug reporting, and help, you can join [UserbotIndo Support Group](https://t.me/userbotindo).
-
 ## Credits
-
 Thanks: 
 * [RaphielGang](https://github.com/RaphielGang) - Telegram-Paperplane
 * [AvinashReddy3108](https://github.com/AvinashReddy3108) - PaperplaneExtended
@@ -66,9 +55,6 @@ Thanks:
 * [Mr.Miss](https://github.com/keselekpermen69) - Userbutt
 * [GengKapak](https://github.com/GengKapak) - DCLXVI
 * [Mkaraniya](https://github.com/mkaraniya) & [Dev73](https://github.com/Devp73) - OpenUserBot
-
 and many more people who aren't mentioned here, but may be found in [Contributors](https://github.com/MoveAngel/One4uBot/graphs/contributors).
-
 ## License
-
 This userbot licensed on [Raphielscape Public License](https://github.com/MoveAngel/One4uBot/blob/sql-extended/LICENSE) - Version 1.d, February 2020
